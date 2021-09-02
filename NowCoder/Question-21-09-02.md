@@ -9,7 +9,8 @@ eg:用法①：
 ```javascript
 <div   ng-class = "{{A}}" > </ div >  
 ```
-给元素绑定监听 ng-click等
+给元素绑定监听 ng-click等等
+
 
 显示隐藏   ng-show  ng-hide
 
