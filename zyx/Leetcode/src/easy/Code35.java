@@ -1,4 +1,4 @@
-package leetcode.easy;
+package easy;
 
 /**
  * 35: 搜索插入位置

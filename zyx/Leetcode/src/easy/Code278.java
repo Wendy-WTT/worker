@@ -1,4 +1,4 @@
-package leetcode.easy;
+package easy;
 
 /**
  * 278：第一个错误的版本
